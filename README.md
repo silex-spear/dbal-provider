@@ -2,6 +2,8 @@
 
 A silex provider for Doctine DBAL using puzzle/configuration (https://github.com/Niktux/puzzle-configuration)
 
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/52e2d15e-fa52-46ed-be3b-caf49e7a0b49/mini.png)](https://insight.sensiolabs.com/projects/52e2d15e-fa52-46ed-be3b-caf49e7a0b49) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/silex-spear/dbal-provider/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/silex-spear/dbal-provider/?branch=master)
+
 ## Installation
 
 ```
