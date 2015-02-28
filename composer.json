@@ -1,0 +1,23 @@
+{
+    "name": "silex-spear/dbal-provider",
+    "description": "A Silex provider for Doctrine DBAL",
+    "type": "library",
+    "authors": [{
+        "name": "Claude LE BRIS",
+        "email": "claude.lebris@gmail.com"
+    }],
+    "license": [
+        "MIT"
+    ],
+    "require": {
+        "php": ">=5.4",
+        "silex/silex": "~1.2",
+        "doctrine/dbal": "~2.2",
+        "puzzle/configuration": "~1.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Spear\\Silex\\Provider\\": "src/"
+        }
+    }
+}
