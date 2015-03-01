@@ -1,6 +1,15 @@
-database: <%db.name%>
-host: <%db.host%>
-user: <%db.user%>
-password: <%db.password%>
-port: <%db.port%>
-charset: <%db.charset%>
+default:
+    database: <%db.name%>
+    host: <%db.host%>
+    user: <%db.user%>
+    password: <%db.password%>
+    port: <%db.port%>
+    charset: <%db.charset%>
+
+otherDatabaseConnection:
+    database: <%db.other.name%>
+    host: <%db.other.host%>
+    user: <%db.other.user%>
+    password: <%db.other.password%>
+    port: <%db.other.port%>
+    charset: <%db.other.charset%>
