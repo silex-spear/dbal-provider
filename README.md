@@ -9,7 +9,7 @@ A silex provider for Doctine DBAL using puzzle/configuration (https://github.com
 ```
 {
     "require": {
-        "silex-spear/dbal-provider": "~1.0"
+        "silex-spear/dbal-provider": "~2.0"
     }
 }
 ```
